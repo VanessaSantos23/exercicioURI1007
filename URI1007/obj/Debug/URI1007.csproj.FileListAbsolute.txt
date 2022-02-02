@@ -1,0 +1,8 @@
+C:\Users\v.a.ferreira.santos\Desktop\Estudos  UDEMY\URI1007\URI1007\bin\Debug\URI1007.exe.config
+C:\Users\v.a.ferreira.santos\Desktop\Estudos  UDEMY\URI1007\URI1007\bin\Debug\URI1007.exe
+C:\Users\v.a.ferreira.santos\Desktop\Estudos  UDEMY\URI1007\URI1007\bin\Debug\URI1007.pdb
+C:\Users\v.a.ferreira.santos\Desktop\Estudos  UDEMY\URI1007\URI1007\obj\Debug\URI1007.csproj.SuggestedBindingRedirects.cache
+C:\Users\v.a.ferreira.santos\Desktop\Estudos  UDEMY\URI1007\URI1007\obj\Debug\URI1007.csproj.CoreCompileInputs.cache
+C:\Users\v.a.ferreira.santos\Desktop\Estudos  UDEMY\URI1007\URI1007\obj\Debug\URI1007.exe
+C:\Users\v.a.ferreira.santos\Desktop\Estudos  UDEMY\URI1007\URI1007\obj\Debug\URI1007.pdb
+C:\Users\v.a.ferreira.santos\Desktop\Estudos  UDEMY\URI1007\URI1007\obj\Debug\URI1007.csproj.AssemblyReference.cache
